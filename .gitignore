@@ -1,0 +1,7 @@
+*.docx
+*.txt
+case files/
+libreoffice_profile/
+capture_server.py
+master-letter.md
+docs/
